@@ -34,7 +34,7 @@ public class Islemler {
     public static int postfixDegerlendir(String girdi) {
         //Metodun gövdesini yazınız
         return -1;
-    }
+    } 
 
     /**
      * Infix ifadeyi postfix'e dönüştürür.
